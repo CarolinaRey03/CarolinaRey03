@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Carolina from Ferrol, A Coruña<br><br>- 🔭 I’m searching for opportunities on AI or software development.<br>- 📚 I'm currently learning Spring Boot and React to complete my stack. I'm also learning more about NLP and Computer Vision.<br>- ⚡ In my free time I like to learn more about computer science, go to the gym and play videogames</p>
+<p align="left">I'm Carolina from Ferrol, A Coruña. I´m a computer science graduate by the University of A Coruña interested in AI and software development.<br><br>- 🔭 I’m searching for opportunities on AI or software development.<br>- 📚 I'm currently learning Spring Boot and React to complete my stack. I'm also learning more about NLP and Computer Vision.<br>- ⚡ In my free time I like to learn more about computer science, go to the gym and play videogames</p>
 
 ###
 
