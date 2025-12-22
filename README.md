@@ -60,13 +60,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarolinaRey03&show_icons=true&theme=tokyonight&count_private=true&hide=prs" height="220" alt="streak graph"  />
-</div>
