@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Carolina from Ferrol, A Coruña. I´m a computer science graduate by the University of A Coruña interested in AI and software development.<br><br>- 🔭 I’m searching for opportunities on AI or software development.<br>- 📚 I'm learning more about NLP and Computer Vision.<br>- ⚡ In my free time I like to learn more about computer science, go to the gym and play videogames</p>
+<p align="left">I'm Carolina from Ferrol, A Coruña. I´m a computer science graduate by the University of A Coruña and a master student in Computer Vision by the University of Vigo interested in Data & AI.<br><br>- 🔭 I’m searching for opportunities on AI development.<br>- 📚 I'm learning more about NLP and Computer Vision.<br>- ⚡ In my free time I like to learn more about computer science, go to the gym and play videogames</p>
 
 ###
 
